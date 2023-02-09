@@ -13,4 +13,10 @@ public class RestController {
 
         return "Hello KC";
     }
+
+    @GetMapping("/greet1")
+    public String greet1(){
+
+        return "Hello KC";
+    }
 }

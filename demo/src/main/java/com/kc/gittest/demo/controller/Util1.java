@@ -1,4 +1,4 @@
-package com.kc.gittest.demo.util;
+package com.kc.gittest.demo.controller;
 
 public class Util1 {
 
