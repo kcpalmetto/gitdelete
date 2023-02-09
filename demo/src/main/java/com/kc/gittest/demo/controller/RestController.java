@@ -24,8 +24,8 @@ public class RestController {
 
         return "Hello KC";
     }
-       @GetMapping("/greet2")
-    public String greet2(){
+       @GetMapping("/greet4")
+    public String greet4(){
 
         return "Hello KC";
     }
